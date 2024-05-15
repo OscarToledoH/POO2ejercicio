@@ -1,0 +1,14 @@
+c:\Users\oscar\Desktop\POO2C\Ejemplo_POO1\EjercicioGato\bin\Debug\net8.0\EjercicioGato.exe
+c:\Users\oscar\Desktop\POO2C\Ejemplo_POO1\EjercicioGato\bin\Debug\net8.0\EjercicioGato.deps.json
+c:\Users\oscar\Desktop\POO2C\Ejemplo_POO1\EjercicioGato\bin\Debug\net8.0\EjercicioGato.runtimeconfig.json
+c:\Users\oscar\Desktop\POO2C\Ejemplo_POO1\EjercicioGato\bin\Debug\net8.0\EjercicioGato.dll
+c:\Users\oscar\Desktop\POO2C\Ejemplo_POO1\EjercicioGato\bin\Debug\net8.0\EjercicioGato.pdb
+c:\Users\oscar\Desktop\POO2C\Ejemplo_POO1\EjercicioGato\obj\Debug\net8.0\EjercicioGato.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\oscar\Desktop\POO2C\Ejemplo_POO1\EjercicioGato\obj\Debug\net8.0\EjercicioGato.AssemblyInfoInputs.cache
+c:\Users\oscar\Desktop\POO2C\Ejemplo_POO1\EjercicioGato\obj\Debug\net8.0\EjercicioGato.AssemblyInfo.cs
+c:\Users\oscar\Desktop\POO2C\Ejemplo_POO1\EjercicioGato\obj\Debug\net8.0\EjercicioGato.csproj.CoreCompileInputs.cache
+c:\Users\oscar\Desktop\POO2C\Ejemplo_POO1\EjercicioGato\obj\Debug\net8.0\EjercicioGato.dll
+c:\Users\oscar\Desktop\POO2C\Ejemplo_POO1\EjercicioGato\obj\Debug\net8.0\refint\EjercicioGato.dll
+c:\Users\oscar\Desktop\POO2C\Ejemplo_POO1\EjercicioGato\obj\Debug\net8.0\EjercicioGato.pdb
+c:\Users\oscar\Desktop\POO2C\Ejemplo_POO1\EjercicioGato\obj\Debug\net8.0\EjercicioGato.genruntimeconfig.cache
+c:\Users\oscar\Desktop\POO2C\Ejemplo_POO1\EjercicioGato\obj\Debug\net8.0\ref\EjercicioGato.dll
